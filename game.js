@@ -94,7 +94,7 @@ Sprite = function () {
 
   this.children = {};
 
-  this.visible  = false;
+  this.visible  = true;
   this.reap     = false;
   this.bridgesH = true;
   this.bridgesV = true;
